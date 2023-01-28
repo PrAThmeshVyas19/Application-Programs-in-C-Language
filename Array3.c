@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main()
+{
+    int Mark = 78;
+    int Mark2 = 89;
+    int Mark3 = 90;
+    int Mark4 = 96;
+
+
+    return 0;
+}
